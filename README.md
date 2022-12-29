@@ -22,3 +22,21 @@ GitHub will display your profile README on your profile page if all of the follo
 - The repository is public.
 - The repository contains a file named README.md in its root.
 - The README.md file contains any content.
+
+## How to add GitHub repository stats
+
+<https://github-readme-stats.vercel.app>
+
+![My GitHub](https://github-readme-stats.vercel.app/api?username=briansu2004&show_icons=true&theme=rose_pine)
+
+![My GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=briansu2004&layout=compact&card_width=250&langs_count=20&theme=rose_pine)
+
+## How to add badges
+
+shields.io
+
+<img src="https://img.shields.io/badge/-StackOverflow-001633?style=for-the-badge&logo=stackoverflow">
+<img src="https://img.shields.io/badge/-Google-001633?style=for-the-badge&logo=google">
+<img src="https://img.shields.io/badge/-Geeks For Geeks-001633?style=for-the-badge&logo=geeksforgeeks">
+<img src="https://img.shields.io/badge/-YouTube-001633?style=for-the-badge&logo=youtube">
+<img src="https://img.shields.io/badge/-Dev.To-001633?style=for-the-badge&logo=devdotto">
