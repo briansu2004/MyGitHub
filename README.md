@@ -36,8 +36,8 @@ GitHub will display your profile README on your profile page if all of the follo
 shields.io
 
 <div style="display: flex;">
-    <img src="https://img.shields.io/badge/-StackOverflow-001633?style=for-the-badge&logo=stackoverflow">
     <img src="https://img.shields.io/badge/-Google-001633?style=for-the-badge&logo=google">
-    <img src="https://img.shields.io/badge/-Geeks For Geeks-001633?style=for-the-badge&logo=geeksforgeeks">
     <img src="https://img.shields.io/badge/-YouTube-001633?style=for-the-badge&logo=youtube">
+    <img src="https://img.shields.io/badge/-StackOverflow-001633?style=for-the-badge&logo=stackoverflow">
+    <img src="https://img.shields.io/badge/-Geeks For Geeks-001633?style=for-the-badge&logo=geeksforgeeks">
 </div>
