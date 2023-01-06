@@ -8,7 +8,7 @@ My GitHub
 
 ## GitHub Pages
 
-[GitHub Pages]<https://pages.github.com/>)
+[GitHub Pages]<https://pages.github.com/>
 
 ## GitHub CodeSpaces
 
@@ -29,3 +29,4 @@ The solution is:
 ### How to relocate the local git repo
 
 Use "Locate..." button to relocate the local repo folder.
+

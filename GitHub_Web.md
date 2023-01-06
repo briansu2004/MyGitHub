@@ -29,6 +29,37 @@ GitHub will display your profile README on your profile page if all of the follo
 
 ![My GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=briansu2004&layout=compact&card_width=250&langs_count=20&theme=rose_pine)
 
+![My GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=briansu2004&theme=vue)
+
+![My GitHub](https://github-readme-streak-stats.herokuapp.com/?user=briansu2004&theme=vue)
+
+<!--
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=briansu2004&theme=vue"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=briansu2004&theme=vue" />
+
+![My GitHub](https://github-readme-stats.vercel.app/api?username=briansu2004&show_icons=true&theme=rose_pine)
+
+![My GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=briansu2004&layout=compact&card_width=250&langs_count=20&theme=rose_pine)
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=briansu2004&theme=vue"/>
+</p>
+
+<p align="left">
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=briansu2004&show_icons=true&theme=vue" />
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=briansu2004&theme=vue" />
+</p>
+
+![My GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=briansu2004&layout=compact&card_width=250&langs_count=20&theme=rose_pine)
+
+<p align="left">
+ <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=briansu2004&layout=compact&langs_count=20&theme=rose_pine" />
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=briansu2004&theme=vue" />
+</p>
+-->
+
 ## How to add badges
 
 shields.io
