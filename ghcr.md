@@ -2,17 +2,20 @@
 
 ## How to push images to GitHub Container Registry (ghcr)
 
-To publish an image to ghcr:
+To publish an image to ghcr
 
 ```dos
 Create a Personal Access Token
-Log-in to the container registry
-Push an image to ghcr.io/GITHUB_USERNAME/IMAGE_NAME:VERSION
+Login to the container registry
+Tag local images
+Push re-tagged images to ghcr
 ```
 
 ### Create a Personal Access Token (PAT) for GitHub
 
 “Settings > Developer Settings > Personal access tokens” and create token with permissions related to “packages” (or <https://github.com/settings/tokens/new>).
+
+![1674058028727](image/ghcr/1674058028727.png)
 
 ### Docker login to ghcr
 
