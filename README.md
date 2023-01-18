@@ -32,4 +32,4 @@ Use "Locate..." button to relocate the local repo folder.
 
 ## GitHub Container Registry (ghcr)
 
-[GitHub Container Registry](GitHub_Web.md)
+[GitHub Container Registry](ghcr.md)
