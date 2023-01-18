@@ -54,4 +54,16 @@ REPOSITORY                                        TAG        IMAGE ID       CREA
 color-web                                         init       2454b6595e3c   15 minutes ago   60.4MB
 ghcr.io/briansu2004/colorweb                      latest     2454b6595e3c   15 minutes ago   60.4MB
 
+C:\Code\MyGitHub>docker push ghcr.io/briansu2004/colorweb:latest
+The push refers to repository [ghcr.io/briansu2004/colorweb]
+3b7bbc716e20: Pushed
+5f70bf18a086: Mounted from briansu2004/udemy-devops-9projects-free
+d42ba8aa32b4: Pushed
+a57d572a019a: Pushed
+8b3fb03be45e: Pushed
+a2fbf44956f8: Pushed
+db02c1e68eb7: Pushed
+4efbcf210682: Mounted from briansu2004/udemy-devops-9projects-free
+8e012198eea1: Mounted from briansu2004/udemy-devops-9projects-free
+latest: digest: sha256:7c7a6433eef703112976f490a36252968f39be4ae7a81447cf0b4c16359eaaf7 size: 2202
 ```
